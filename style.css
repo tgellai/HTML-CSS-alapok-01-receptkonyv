@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+body{
+    background-color: #C7AF86;
+    background-image: url("kepek/hatter.gif");
+    font-family: Calibri, sans-serif;
+    font-size: 1.1em;
+    margin: auto;
+    width: 80%;
+    max-width: 700px;
+}
