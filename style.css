@@ -18,6 +18,18 @@ body{
     margin-top: 10px;
 }
 
+h1, h2, h3{
+    font-family: Cambria, sans-serif;
+}
+
+h2, h3{
+    font-size: 1.3em;
+}
+
+h1{
+    margin-top: 0;
+}
+
 img{
     height: 150px;
     border: 1px solid #000;
